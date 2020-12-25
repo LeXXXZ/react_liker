@@ -1,3 +1,3 @@
 # react_liker
 
-Some experiments with React
+Some experiments with React and JSX
